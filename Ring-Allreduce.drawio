@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T11:25:23.214Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="u-NiZ7tG--BVeuNnw_5c" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-20T11:26:11.145Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="65BLvPlKGaKsoJCexmDv" version="20.0.1" type="github">
   <diagram id="QZoD75EK2pMNKqEWIpBd" name="Page-1">
     <mxGraphModel dx="2424" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,6 +75,9 @@
         </mxCell>
         <mxCell id="ngBhUCR4Onw7o18NPcVE-178" value="&lt;b&gt;Allgather阶段&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-220" y="800" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ngBhUCR4Onw7o18NPcVE-179" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=18;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="350" width="1010" height="630" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
