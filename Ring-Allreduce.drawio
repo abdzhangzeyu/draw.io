@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T02:31:58.821Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="WGwZOmxNyykyhdYRDjOB" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-20T02:32:09.908Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="v_5gOtlnttxf33v2wdan" version="20.0.1" type="github">
   <diagram id="QZoD75EK2pMNKqEWIpBd" name="Page-1">
     <mxGraphModel dx="1093" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ngBhUCR4Onw7o18NPcVE-88" value="A&lt;sub&gt;0&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=18;fontColor=#000000;strokeColor=#B64A48;fillColor=#78745F;" vertex="1" parent="1">
-          <mxGeometry x="210" y="230" width="80" height="80" as="geometry" />
+        <mxCell id="ngBhUCR4Onw7o18NPcVE-88" value="A&lt;sub&gt;0&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=18;fontColor=#ffffff;strokeColor=#006EAF;fillColor=#1ba1e2;" vertex="1" parent="1">
+          <mxGeometry x="210" y="230" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
